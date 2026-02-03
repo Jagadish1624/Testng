@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-02T12:25:33 IST" name="Surefire suite" finished-at="2026-02-02T12:25:33 IST" duration-ms="39">
+    <groups>
+    </groups>
+    <test started-at="2026-02-02T12:25:33 IST" name="Surefire test" finished-at="2026-02-02T12:25:33 IST" duration-ms="39">
+      <class name="Baseclass.SamplestestngTest">
+        <test-method signature="tc1()[pri:0, instance:Baseclass.SamplestestngTest@14d3bc22]" started-at="2026-02-02T12:25:33 IST" name="tc1" finished-at="2026-02-02T12:25:33 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:0, instance:Baseclass.SamplestestngTest@14d3bc22]" started-at="2026-02-02T12:25:33 IST" name="tc2" finished-at="2026-02-02T12:25:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc3()[pri:0, instance:Baseclass.SamplestestngTest@14d3bc22]" started-at="2026-02-02T12:25:33 IST" name="tc3" finished-at="2026-02-02T12:25:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- Baseclass.SamplestestngTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
